@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Fonts/GameDone.spritefont</SourceFile>
+  <SourceTime>2019-12-22T18:29:54.9543167+01:00</SourceTime>
+  <DestFile>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/bin/Windows/Content/Fonts/GameDone.xnb</DestFile>
+  <DestTime>2019-12-22T18:29:56.0514863+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

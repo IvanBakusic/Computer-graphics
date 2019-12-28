@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Audio/GuileTheme.mp3</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Fonts/GameDone.spritefont</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Fonts/Score.spritefont</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/BulletTextures/bulletLeft.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/BulletTextures/bulletRight.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingLeft1.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingLeft2.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingLeft3.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingLeft4.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingLeft5.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingLeft6.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingLeft7.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingRight1.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingRight2.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingRight3.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingRight4.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingRight5.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingRight6.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/EnemyTextures/walkingRight7.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/LevelTextures/BackgroundLevel1.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/LevelTextures/levelPlatforms.jpg</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningLeft1.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningLeft2.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningLeft3.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningLeft4.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningLeft5.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningLeft6.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningRight1.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningRight2.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningRight3.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningRight4.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningRight5.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/runningRight6.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/shootingLeft.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/shootingRight.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/standingLeft.png</File>
+    <File>B:/Desktop/Ostalo/Fakultet/Diplomski studij/Računalna grafika/ArcadeGame/Arcade/Arcade/Content/Textures/PlayerTextures/standingRight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
